@@ -1,4 +1,4 @@
-# Linq-Data-takehome
+# Linq-Data-Takehome
 
 <h3>My Assumptions</h3>
 • The application is stateless, so I can retry events without having to include context from previous or future events.
